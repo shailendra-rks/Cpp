@@ -1,3 +1,4 @@
+//leetcode Q. 967. Numbers With Same Consecutive Differences
 #include <iostream>
 #include <vector>
 
